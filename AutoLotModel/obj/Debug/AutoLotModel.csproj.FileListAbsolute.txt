@@ -1,0 +1,13 @@
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\AutoLot.mdf
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\AutoLot_log.ldf
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\AutoLotModel.dll
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\AutoLotModel.pdb
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\EntityFramework.dll
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\EntityFramework.xml
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\obj\Debug\AutoLotModel.dll
+F:\Teme\An 3\Sem 1\Medii de dezvoltare si programare\Lab5\AutoLotModel\obj\Debug\AutoLotModel.pdb
